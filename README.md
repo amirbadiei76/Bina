@@ -1,5 +1,5 @@
- 
-# Bina Platform   ![bina_image2](https://github.com/user-attachments/assets/b49af0bf-58b7-46f3-9272-6fd2e54967b8)
+![bina_image2](https://github.com/user-attachments/assets/b49af0bf-58b7-46f3-9272-6fd2e54967b8)
+# Bina Platform
 
 
 
