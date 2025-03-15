@@ -1,4 +1,4 @@
-![bina_image](https://github.com/user-attachments/assets/3b81922a-85d2-42fd-98df-ffa5eb804116)
+![bina_image2](https://github.com/user-attachments/assets/b49af0bf-58b7-46f3-9272-6fd2e54967b8)
 # Bina Platform
 
 ## Utilize the Bina Platform for Creating Performance Analysis Dashboards for Instructors
