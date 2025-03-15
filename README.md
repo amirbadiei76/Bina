@@ -1,7 +1,7 @@
 # Bina Platform
 
 ## Utilize the Bina Platform for Creating Performance Analysis Dashboards for Instructors
-The video below demonstrates how to use the Bina platform.\
+The video below demonstrates how to use the Bina platform.
 
 
 https://github.com/user-attachments/assets/15c03979-2293-48f7-a374-daee6f026f2f
