@@ -1,6 +1,5 @@
-
-# Bina Platf![bina_image](https://github.com/user-attachments/assets/3b81922a-85d2-42fd-98df-ffa5eb804116)
-orm
+![bina_image](https://github.com/user-attachments/assets/3b81922a-85d2-42fd-98df-ffa5eb804116)
+# Bina Platform
 
 ## Utilize the Bina Platform for Creating Performance Analysis Dashboards for Instructors
 The video below demonstrates how to use the Bina platform.
